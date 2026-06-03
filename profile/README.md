@@ -25,3 +25,9 @@ SnapEats est une plateforme innovante qui transforme les aliments oubliés de vo
 | Repository | Description |
 |------------|-------------|
 | **[mobile-app](https://github.com/snapeats-mvp/mobile-app)** | Code source de l'application |
+
+### Documentations
+
+| Repository | Description |
+|------------|-------------|
+| **[docs](https://github.com/snapeats-mvp/docs)** | Documentations relatives au projet |
