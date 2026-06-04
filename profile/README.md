@@ -18,7 +18,7 @@ SnapEats est une plateforme innovante qui transforme les aliments oubliés de vo
 
 | Repository | Description | **Accès** |
 |------------|-------------|-----------|
-| **[landing-page](https://github.com/WilliamHEIG-VD/MVP-LandingPage)** | Site web de présentation | [url](https://williamheig-vd.github.io/MVP-LandingPage/) |
+| **[landing-page](https://github.com/snapeats-mvp/landing-page)** | Site web de présentation | [url](https://snapeats-mvp.github.io/landing-page/) |
 
 ### Mobile app
 
