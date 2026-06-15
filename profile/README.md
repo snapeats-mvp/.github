@@ -10,7 +10,7 @@
 SnapEats est une plateforme innovante qui transforme les aliments oubliés de votre frigo en délicieux repas :
 - **Photographiez** vos aliements dans votre frigo.
 - **IA** reconnaît les aliments instantanément.
-- **Cuisinez** les 5+ recettes générées, adaptées et faciles.
+- **Cuisinez** les 3+ recettes générées, adaptées et faciles.
 
 ## Repositories
 
